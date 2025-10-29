@@ -1,6 +1,5 @@
-# Desafio: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Desafio: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-```markdown
 # A Revolução das IAs: Transformando o Presente e Moldando o Futuro ;)
 
 ## 📒 Descrição
@@ -20,7 +19,9 @@ Ebook completo com 5 páginas temáticas + capas, contendo conteúdo educacional
 ## 💭 Reflexão (Opcional)
 O maior desafio foi manter autenticidade criativa e manter aquela "verdade humana" enquanto se utiliza ferramentas de IA - exigiu bastante da minha atenção, ajustes finos nos prompts e a integração de uma visão pessoal para transformar outputs genéricos em algo único e com propósito definido. De fato foi uma experiência divertida.
 
-Baixe o ebook aqui:  [E-BOOK](A Revoluçao das IAs transf.pdf) 
+Baixe o e-book aqui: 
+- ([E-book Revolução das IAs Generativas](https://github.com/KosumeAlan/lab-natty-or-not/blob/main/A%20Revolu%C3%A7ao%20das%20IAs%20transf.pdf))
+
 
 
 0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0--00--0
